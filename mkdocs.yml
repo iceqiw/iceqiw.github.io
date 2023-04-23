@@ -34,7 +34,7 @@ theme:
 repo_url: https://github.com/iceqiw/iceqiw.github.io
 repo_name: iceqiw.github.io # 右上角的名字
 ## [bottom-left corner]
-copyright: wei CC-BY-4.0 # 左下角的版权声明# [top-right corner]
+copyright: Highway CC-BY-4.0 # 左下角的版权声明# [top-right corner]
 ## [bottom-right corner]
 extra:
   social: # icons
