@@ -1,4 +1,3 @@
-
 # Data Developer/ Backend Developer
 
 A data developer is a professional who specializes in creating and managing data infrastructure, pipelines, and applications. They are responsible for designing and implementing data systems that allow organizations to store, process, and analyze large volumes of data efficiently.
